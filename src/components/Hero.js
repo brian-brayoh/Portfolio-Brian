@@ -1,6 +1,5 @@
 import React from 'react';
 
-import profileImg from '../assets/profile.jpg';
 import DownloadCVButton from './DownloadCVButton';
 
 const Hero = () => (
